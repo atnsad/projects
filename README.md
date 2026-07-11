@@ -8,9 +8,6 @@
     <img src="https://img.shields.io/badge/GitHub-atnsad-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
   <a href="https://reymit.ir/atnsad">
-    <img src="https://img.shields.io/badge/Support-Reymit-ff6b6b?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support Badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-00b894?style=for-the-badge" alt="Open Source Badge" />
 </p>
 
 <p>
