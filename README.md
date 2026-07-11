@@ -1,150 +1,94 @@
 <div align="center">
 
-# 👨‍💻 Abtin Salimi
-### Developer • Programmer • Creator
+# 👋 سلام، من آبتین سلیمی هستم
 
-<p>
-  <a href="https://github.com/atnsad">
-    <img src="https://img.shields.io/badge/GitHub-atnsad-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  </a>
-  <a href="https://reymit.ir/atnsad">
-</p>
+### 🚀 توسعه‌دهنده و علاقه‌مند به برنامه‌نویسی
 
-<p>
-  Welcome to my GitHub space — a place where ideas turn into code, tools become useful, and side projects occasionally become serious projects.
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/atnsad?style=social)](https://github.com/atnsad)
+[![GitHub stars](https://img.shields.io/github/stars/atnsad?style=social)](https://github.com/atnsad)
 
 </div>
 
 ---
 
-## ✨ About Me
+## 📌 درباره من
 
-Hi, I'm **آبتین سلیمی** (**Abtin Salimi**) — a developer and creator passionate about building practical, creative, and efficient software projects.
+سلام! 👋 من **آبتین سلیمی** هستم، با نام کاربری **[atnsad](https://github.com/atnsad)**.  
+این ریپازیتوری محلی برای نگهداری، اشتراک‌گذاری و معرفی پروژه‌های شخصی من است.
 
-On this GitHub, I share:
-
-- 🧩 Personal experiments
-- ⚙️ Developer tools
-- 🖥️ Windows utilities
-- 🐍 Python-based projects
-- 🎮 Game-related ideas and prototypes
-- 📦 Custom archive / file format concepts
-- 🌐 APIs, automation scripts, and creative coding projects
-
-I enjoy creating projects that are not only functional, but also clean, maintainable, and enjoyable to use.
+در این‌جا می‌تونید پروژه‌های مختلفی که در زمینه‌های گوناگون برنامه‌نویسی کار کردم رو پیدا کنید. هدف من یادگیری مداوم، اشتراک دانش و ساختن چیزهای مفید و کاربردیه. 💻✨
 
 ---
 
-## 🚀 What You Can Find Here
+## 🛠️ مهارت‌ها و تکنولوژی‌ها
 
-This repository / profile includes a collection of projects such as:
+<div align="center">
 
-- **Python scripts and automation tools**
-- **Windows desktop/system utilities**
-- **Custom archive format experiments**
-- **Backend and API projects**
-- **Open-source utilities**
-- **Creative development ideas**
-- **Gaming-related tools or prototypes**
-- **Minimal and aesthetic software concepts**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-Some projects are production-ready, some are experimental, and some exist because curiosity is a dangerous thing in the hands of a programmer.
+</div>
 
 ---
 
-## 🛠️ Tech & Interests
+## 📂 پروژه‌ها
 
-### Languages & Tools
-- Python
-- Bash
-- Git & GitHub
-- Windows system tooling
-- API development
-- Automation scripting
-- File structure / archive design
-- CLI utilities
+در این بخش لیستی از پروژه‌های موجود در این ریپازیتوری قرار داره:
 
-### Areas I Like Working On
-- Developer tools
-- Local utilities
-- Performance-focused scripts
-- Minimal UI concepts
-- Archive systems and custom formats
-- Creative coding
-- Practical open-source projects
+| نام پروژه | توضیحات | لینک |
+|-----------|---------|------|
+| 🔹 پروژه ۱ | توضیح مختصر پروژه اول | [مشاهده](#) |
+| 🔹 پروژه ۲ | توضیح مختصر پروژه دوم | [مشاهده](#) |
+| 🔹 پروژه ۳ | توضیح مختصر پروژه سوم | [مشاهده](#) |
+
+> 📝 این جدول رو می‌تونید بر اساس پروژه‌های واقعی خودتون به‌روزرسانی کنید.
 
 ---
 
-## 📂 Repository Philosophy
+## 📊 آمار گیت‌هاب
 
-I usually try to keep my projects:
+<div align="center">
 
-- **Useful**
-- **Readable**
-- **Hackable**
-- **Lightweight**
-- **Expandable**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atnsad&show_icons=true&theme=radical)
 
-In other words: less unnecessary complexity, more real functionality.  
-Because nobody opens a repository and says *“wow, I hope this is impossible to maintain.”*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atnsad&layout=compact&theme=radical)
+
+</div>
 
 ---
 
-## 🌟 Goals
+## 📫 راه‌های ارتباطی
 
-Through my projects, I aim to:
+<div align="center">
 
-- Build tools that solve real problems
-- Share useful code with others
-- Explore new technical ideas
-- Improve performance and developer experience
-- Keep learning by building
+[![GitHub](https://img.shields.io/badge/GitHub-atnsad-181717?style=for-the-badge&logo=github)](https://github.com/atnsad)
+
+</div>
 
 ---
 
-## 🤝 Contributions & Collaboration
+## 💖 حمایت از من
 
-If you want to:
+اگه از پروژه‌ها و کارهام خوشتون اومده و دوست دارید حمایتم کنید، می‌تونید از طریق لینک زیر این کار رو انجام بدید. هر حمایتی، هرچند کوچیک، انگیزه‌ای برای ادامه‌ی این مسیر برای من می‌شه. 🙏
 
-- suggest improvements,
-- report bugs,
-- open issues,
-- submit pull requests,
-- or collaborate on interesting ideas,
+<div align="center">
 
-you're very welcome.
+[![حمایت مالی](https://img.shields.io/badge/💖_حمایت_مالی-reymit.ir-ff69b4?style=for-the-badge)](https://reymit.ir/atnsad)
 
-Any constructive feedback is appreciated.
+### ☕ [حمایت از من در ریمیت](https://reymit.ir/atnsad)
 
----
-
-## 💖 Support My Work
-
-If you like my work and want to support me financially, you can do it here:
-
-### 👉 [Support via Reymit](https://reymit.ir/atnsad)
-
-Your support helps me spend more time building better tools, better projects, and fewer “temporary scripts” that mysteriously become permanent.
-
----
-
-## 📬 Contact
-
-- **GitHub:** [@atnsad](https://github.com/atnsad)
-- **Name:** آبتین سلیمی
-
-If one of my projects helps you, consider giving it a ⭐  
-It really helps more than people pretend it does.
+</div>
 
 ---
 
 <div align="center">
 
-## Thanks for visiting my GitHub ✨
+### ⭐ اگه از این ریپازیتوری خوشتون اومد، بهش استار بدید!
 
-If you find something useful here, feel free to explore, star, fork, or support.
-
-**Made with code, curiosity, and probably too many unfinished ideas.**
+**ساخته‌شده با ❤️ توسط [آبتین سلیمی (atnsad)](https://github.com/atnsad)**
 
 </div>
