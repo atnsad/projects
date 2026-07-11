@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>پروژه های من</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Tahoma, sans-serif;
+      background: #f4f4f4;
+      color: #222;
+      direction: rtl;
+    }
+    .container {
+      max-width: 800px;
+      margin: 60px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 14px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      text-align: center;
+    }
+    h1 {
+      margin-bottom: 20px;
+      font-size: 32px;
+      color: #111;
+    }
+    p {
+      font-size: 17px;
+      line-height: 1.9;
+      color: #444;
+      margin-bottom: 35px;
+    }
+    .buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .buttons a {
+      display: inline-block;
+      padding: 8px 14px;
+      font-size: 13px;
+      border-radius: 8px;
+      color: white;
+      text-decoration: none;
+      transition: 0.2s ease;
+    }
+    .buttons a:hover {
+      transform: scale(1.05);
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>پروژه های من</h1>
+    <p>در این صفحه میتوانید پروژه های من را ببینید:</p>
+    <div class="buttons" id="buttons-container">
+    </div>
+  </div>
+  <script>
+   fetch("buttons.json")
+     .then(response => response.json())
+      .then(buttons => {
+       const container = document.getElementById("buttons-container");
+        buttons.forEach(button => {
+         const a = document.createElement("a");
+          a.textContent = button.title;
+          a.href = button.link;
+         a.style.backgroundColor = button.color;
+          if (button.textColor) {
+            a.style.color = button.textColor;
+         }
+          a.target = "_blank";
+          container.appendChild(a);
+        });
+      })
+      .catch(error => {
+        console.error("خطا در خواندن buttons.json:", error);
+     });
+  </script>
+</body>
+</html>
