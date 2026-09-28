@@ -10,5 +10,11 @@
     "color": "#880000",
     "textColor": "#000000",
     "link": "aimi_v1.1/index.html"
+  },
+  {
+    "title": "MSG holder",
+    "color": "#880000",
+    "textColor": "#00a850",
+    "link": "msgholder/index.html"
   }
 ]
