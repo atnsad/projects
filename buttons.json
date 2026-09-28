@@ -4,5 +4,11 @@
     "color": "#C4FFFE",
     "textColor": "#000000",
     "link": "aimi/index.html"
+  },
+  {
+    "title": "aimi V1.1",
+    "color": "#880000",
+    "textColor": "#000000",
+    "link": "aimi_v1.1/index.html"
   }
 ]
