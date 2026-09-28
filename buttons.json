@@ -13,8 +13,8 @@
   },
   {
     "title": "MSG holder",
-    "color": "#880000",
-    "textColor": "#00a850",
+    "color": "#00a850",
+    "textColor": "#000000",
     "link": "msgholder/index.html"
   }
 ]
